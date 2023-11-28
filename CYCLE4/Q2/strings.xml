@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">q1</string>
+    <string-array name="college">
+        <item>SGC</item>
+        <item>SJCET</item>
+        <item>AJCET</item>
+    </string-array>
+</resources>
